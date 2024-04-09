@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=mmetyolkin)
-![Codewars](https://github.r2v.ch/codewars?user=m.metyolkin&stroke=COLOR)
+<!--![Codewars](https://github.r2v.ch/codewars?user=m.metyolkin&stroke=COLOR)-->
 
 ### Hi there 👋
 
